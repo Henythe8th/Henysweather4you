@@ -5,4 +5,16 @@ body{
     height: 100vh;
     margin: auto;
     background-color: aquamarine;
+    background-image: url(https://www.pexels.com/photo/island-during-golden-hour-and-upcoming-storm-1118873/);
+}
+
+.card{
+    background-color: antiquewhite;
+    padding: 5em;
+    border-radius: 30px;
+    width: 100%;
+    max-width: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    
 }
