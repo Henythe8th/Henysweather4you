@@ -10,6 +10,7 @@ body{
 
 .card{
     background-color: antiquewhite;
+    color: darkblue;
     padding: 5em;
     border-radius: 30px;
     width: 100%;
@@ -18,3 +19,26 @@ body{
     font-size: medium;
     
 }
+
+.search{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button{
+    margin: 4em;
+    border-radius: 40%;
+    border: orange;
+    height: 4em;
+    width: 2.5em;
+    cursor: pointer;
+}
+
+.input{
+    outline: auto;
+    border: none;
+    padding: 2em;
+    background-color: blue;
+}
+
